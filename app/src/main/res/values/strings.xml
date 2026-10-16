@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PlantCare AI</string>
+    <string name="chat_hint">Ask about your plant…</string>
+    <string name="new_chat">New Chat</string>
+    <string name="settings">Settings</string>
+    <string name="attach_image">Attach image</string>
+    <string name="take_photo">Take photo</string>
+    <string name="choose_gallery">Choose from gallery</string>
+    <string name="send">Send</string>
+    <string name="model_loading">Loading Gemma model…</string>
+    <string name="model_error">Failed to load AI model</string>
+    <string name="conversation_history">Conversation History</string>
+    <string name="delete_conversation">Delete conversation</string>
+    <string name="disclaimer">PlantCare AI provides general guidance only. Always consult a professional for critical plant health decisions.</string>
+    <string name="camera_permission_rationale">Camera permission is needed to take photos of your plants for analysis.</string>
+    <string name="no_conversations">No conversations yet.\nStart a new chat!</string>
+    <string name="model_status">Model Status</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="temperature">Temperature</string>
+    <string name="max_tokens">Max Output Tokens</string>
+</resources>
